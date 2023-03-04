@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518117813249",
+    "project_id": "captain-5231e",
+    "storage_bucket": "captain-5231e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518117813249:android:68c939a0ee2a7a139d6400",
+        "android_client_info": {
+          "package_name": "com.captain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518117813249-m7jtt54en73mufcrf9vuc2cl4s5t5a3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvHhG5bEw2Qwx3_DsxvT6ea4LCLmeDUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518117813249-m7jtt54en73mufcrf9vuc2cl4s5t5a3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
